@@ -1,0 +1,42 @@
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "899",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "niku",
+      "email": "niku@123",
+      "street": "akole",
+      "postal-code": "323432",
+      "city": "sangamner"
+    },
+    "id": "754.0261510281201"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "899",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "jivan",
+      "email": "jivan@13",
+      "street": "supa",
+      "postal-code": "34424",
+      "city": "tara"
+    },
+    "id": "881.9754648661738"
+  }
+]
